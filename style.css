@@ -1,0 +1,28 @@
+html, body {
+
+
+}
+
+.target {
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.box {
+    height: 400px;
+    width: 200px;
+    border: 10px solid paleturquoise;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.box >p {
+    margin: 30px 20px 150px 20px;
+    text-align: justify;
+}
+
+
+
